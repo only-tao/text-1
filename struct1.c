@@ -7,9 +7,9 @@ struct meet
     };
 int main()
 {
-    struct meet meet1={1};//Î´¸³ÖµÈ«Îª0£»ÀàËÆÊı×é£»
+    struct meet meet1={1};//æœªèµ‹å€¼å…¨ä¸º0ï¼›ç±»ä¼¼æ•°ç»„ï¼›
     printf("meet1 %d\t%d\t%d",meet1.begin,meet1.end,meet1.zhi);
-
+    printf("hello1");//è¿›è¡Œæ”¹å˜1ï¼›
 
     return  0;
 }
